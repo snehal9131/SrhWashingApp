@@ -1,0 +1,17 @@
+.my-create{
+    margin-left: 50px;
+    margin-right: 100px;
+    text-shadow: black;
+    font-weight: bolder;
+}
+h3{
+    margin-left: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+
+}
+label{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,12 @@
+.nav-wrapper{background-color: white;
+}
+.list{
+    color: gray;
+    margin-top: 30px;
+    margin-right: 30px;
+    text-shadow: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    height: 100px;
+}
